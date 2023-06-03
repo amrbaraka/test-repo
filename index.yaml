@@ -1,3 +1,20 @@
 apiVersion: v1
-entries: {}
-generated: "2023-06-01T10:07:21.0736769+02:00"
+entries:
+  multus:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-06-03T10:07:04.6012207+02:00"
+    description: Multus Helm chart for Kubernetes
+    digest: ee8f3051b5e6ec8e95d05f0567842b9dfee0ffb3327d4bb3018b7bb4cb9356ee
+    home: https://github.com/intel/multus-cni
+    icon: https://raw.githubusercontent.com/intel/multus-cni/master/doc/images/Multus.png
+    maintainers:
+    - name: Network Plumbing Group
+    name: multus
+    sources:
+    - https://github.com/intel/multus-cni
+    type: application
+    urls:
+    - https://amrbaraka.github.io/test-repo/multus-0.1.2.tgz
+    version: 0.1.2
+generated: "2023-06-03T10:07:04.60004+02:00"
